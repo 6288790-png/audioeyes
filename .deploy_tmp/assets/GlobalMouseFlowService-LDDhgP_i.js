@@ -1,0 +1,1 @@
+import{l as e,t}from"./GlobalMouseFlowService-TC6ALOnn.js";export{t as configureGlobalMouseFlow,e as takeGlobalMouseFlowInitialization};
