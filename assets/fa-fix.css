@@ -1,0 +1,11 @@
+/* Override Font Awesome font-face to use relative paths (for GitHub Pages subpath) */
+@font-face{font-family:"Font Awesome 7 Brands";font-style:normal;font-weight:400;font-display:block;src:url("fa-brands-400-BfBXV7Mm.woff2") format("woff2")}
+@font-face{font-family:"Font Awesome 7 Free";font-style:normal;font-weight:400;font-display:block;src:url("fa-regular-400-BVHPE7da.woff2") format("woff2")}
+@font-face{font-family:"Font Awesome 7 Free";font-style:normal;font-weight:900;font-display:block;src:url("fa-solid-900-8GirhLYJ.woff2") format("woff2")}
+@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:400;font-display:block;src:url("fa-brands-400-BfBXV7Mm.woff2") format("woff2")}
+@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:block;src:url("fa-solid-900-8GirhLYJ.woff2") format("woff2")}
+@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:400;font-display:block;src:url("fa-regular-400-BVHPE7da.woff2") format("woff2")}
+@font-face{font-family:FontAwesome;font-style:normal;font-weight:900;font-display:block;src:url("fa-solid-900-8GirhLYJ.woff2") format("woff2")}
+@font-face{font-family:FontAwesome;font-style:normal;font-weight:400;font-display:block;src:url("fa-regular-400-BVHPE7da.woff2") format("woff2")}
+
+/* end of fa-fix.css */
